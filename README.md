@@ -1,4 +1,4 @@
-# C3-to-playable_ads-html
+# C3-to-playable_ads
 本包是基于gulp开发的playable_ads打包工具。
 里边集成了常用平台的js.后期有优化平台对接需求，自行更改。
 
